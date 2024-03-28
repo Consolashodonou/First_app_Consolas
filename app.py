@@ -11,5 +11,5 @@ def main():
             st.write(f'Bonjour {user}')
         else:
             st.write('Bonjour à toutes et à tous')
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()
